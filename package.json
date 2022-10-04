@@ -35,10 +35,11 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "@nestjs/typeorm": "^9.0.1",
+    "class-transformer": "^0.5.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "siddhesh-test-posts": "^0.0.2",
+    "siddhesh-test-posts": "^0.0.6",
     "typeorm": "^0.3.10"
   },
   "devDependencies": {
